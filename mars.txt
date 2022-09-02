@@ -1,4 +1,6 @@
 Cold. Dry. Best color. 
 2 moons may be problem for werewolfs.
 mummy will be happy.
-Dont'worry by happy
+<<<<<<< HEAD
+Dont'worry by happy=
+stuffy
